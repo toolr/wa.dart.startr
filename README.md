@@ -9,12 +9,12 @@ Courtesy: [Dart Bleeding Edge](https://github.com/dart-lang/bleeding_edge)
 ## Use
 
 ```bash
-$ startr get git@github.com:toolr/wa.dart.startr.git <project name>
+$ startr get git@github.com:toolr/wa.dart.git <project name>
 ```
 
 _Example:_
 ```bash
-$ startr get git@github.com:toolr/wa.dart.startr.git coolprojectname
+$ startr get git@github.com:toolr/wa.dart.git coolprojectname
 ```
 
 will result in:
